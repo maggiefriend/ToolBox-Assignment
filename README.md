@@ -163,9 +163,8 @@ Offensive knowledge informs defense: password complexity, password rotation is i
 **Format:** Documentation + demo commands (Markdown + notes)  
 **Repo or Page:** <Your GitHub repo or page link>  
 **Short description:** Intro to Hashcat install, basic attacks (wordlist, mask, rules), speed tuning, demo commands, and ethical lab setup.
-Sources: Hashcat, Chatgpt
 **Notes:** Includes demo hashes and commands; GPU recommended for full performance.
 ```
-
+Sources: Hashcat, Chatgpt
 ---
 
