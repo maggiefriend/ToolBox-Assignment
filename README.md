@@ -11,9 +11,6 @@ Practical password cracking for defensive security
 **Presented by:** *Maggie Friend*
 **Course:** CYB301 — Immaculata University
 
-**Note:**
-Quick intro: what students will learn in 1–2 weeks: installing Hashcat, basic workflows, wordlist + mask + rule attacks, GPU usage, demo commands, and ethics/safe lab setup.
-
 ---
 
 ## What is Hashcat?
