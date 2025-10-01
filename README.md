@@ -25,6 +25,12 @@ Hashcat is for legitimate uses: penetration testing with authorization, password
 
 ---
 
+Additional Tutorials:
+*https://www.salvationdata.com/knowledge/how-to-use-hashcat/
+*https://www.youtube.com/watch?v=Y2-U6s0I8yQ
+
+---
+
 ## Safety, legality & lab setup
 
 * Only test on systems you own or explicitly authorized for testing
